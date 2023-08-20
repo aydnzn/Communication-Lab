@@ -1,4 +1,4 @@
-# Communication Laboratory - Fall 2018
+# Communication Laboratory
 ## Course Description
 This laboratory-oriented course emphasizes the practical aspects of digital communication, offering hands-on experience with LabView and Matlab, alongside hardware experiments. The coursework incorporates fundamental signal processing techniques, various analog and digital modulation schemes, and application projects.
 
